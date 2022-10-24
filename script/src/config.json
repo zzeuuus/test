@@ -1,0 +1,32 @@
+{
+    "storage": {
+        "solution": "pinata",
+        "pinata": {
+            "pinataApi": "https://api.pinata.cloud/pinning/pinFileToIPFS",
+            "pinataPublicKey": "6efc12cf6ef4bc81fc31",
+            "pinataSecretKey": "f3f6a468e74557b623fc0b2882c4fcb81839a5c014af85cb1961b42de99dac78"
+        },
+        "arweave": {
+            "keyfilePath": "/Users/Shared/arweave-keyfile.json"
+        }
+    },
+    "candymachine": {
+        "cmPublicKey": "0x2bb29cfc607950bc6e926936cda40c3a37473e9eb19413c7151fb663f6455b72",
+        "cmPrivateKey": "0x6a731cee9818dcb9debf8f464c4e00b1dc53ccd962a7e79eda6fa0b8bf798167"
+    },
+    "collection": {
+        "assetDir": "/Users/arunsanganal/Downloads/assets",
+        "metadataDir": "/Users/arunsanganal/Downloads/assets",
+        "collectionName": "TestCollection101",
+        "collectionDescription": "placeholder",
+        "collectionCover": "/Users/arunsanganal/Desktop/Screenshot 2022-10-24 at 12.51.14 PM.png",
+        "collectionSize": 10,
+        "maxMintPerWallet": 10,
+        "mintFee": 50000000,
+        "royalty_points_denominator": 1000,
+        "royalty_points_numerator": 100,
+        "presaleMintTime": 0,
+        "publicMintTime": 0,
+        "whitelistDir": ""
+    }
+}
